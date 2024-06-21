@@ -8,7 +8,11 @@
 
 ## Screenshots
 
-![Executive Dashboard](Screenshots/Screenshot 2024-06-21 230653.png)
-![Map](Screenshots/Screenshot 2024-06-21 231340.png)
-![Product Detail](Screenshots/Screenshot 2024-06-21 231359.png)
-![Customer Detail](Screenshots/Screenshot 2024-06-21 231431.png)
+![Executive Dashboard](Screenshots/Screenshot%202024-06-21%20230653.png)
+
+![Map](Screenshots/Screenshot%202024-06-21%20231340.png)
+
+![Product Detail](Screenshots/Screenshot%202024-06-21%20231359.png)
+
+![Customer Detail](Screenshots/Screenshot%202024-06-21%20231431.png)
+
