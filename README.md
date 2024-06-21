@@ -6,4 +6,9 @@
 ## Dependencies
 - Power BI Desktop
 
-Screenshots/Screenshot 2024-06-21 230653.png
+## Screenshots
+
+![Executive Dashboard](Screenshots/Screenshot 2024-06-21 230653.png)
+![Map](Screenshots/Screenshot 2024-06-21 231340.png)
+![Product Detail](Screenshots/Screenshot 2024-06-21 231359.png)
+![Customer Detail](Screenshots/Screenshot 2024-06-21 231431.png)
