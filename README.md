@@ -9,10 +9,14 @@
 ## Screenshots
 
 ![Executive Dashboard](Screenshots/Screenshot%202024-06-21%20230653.png)
+*Executive DashBoard*
 
 ![Map](Screenshots/Screenshot%202024-06-21%20231340.png)
+*Map*
 
 ![Product Detail](Screenshots/Screenshot%202024-06-21%20231359.png)
+*Product Details*
 
 ![Customer Detail](Screenshots/Screenshot%202024-06-21%20231431.png)
+*Customer Details*
 
